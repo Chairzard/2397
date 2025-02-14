@@ -216,7 +216,7 @@ one, not even the doctor, knew that I should never see or hear again.
 
 I fancy I still have confused recollections of that illness. I
 especially remember the tenderness with which my mother tried to soothe
-me in my waling hours of fret and pain, and the agony and bewilderment
+me in my waking hours of fret and pain, and the agony and bewilderment
 with which I awoke after a tossing half sleep, and turned my eyes, so
 dry and hot, to the wall away from the once-loved light, which came
 to me dim and yet more dim each day. But, except for these fleeting
@@ -467,7 +467,7 @@ in Baltimore, who had been successful in many cases that had seemed
 hopeless. My parents at once determined to take me to Baltimore to see
 if anything could be done for my eyes.
 
-The journey, which I remember well was very pleasant. I made friends
+The journey, which I remember well, was very pleasant. I made friends
 with many people on the train. One lady gave me a box of shells. My
 father made holes in these so that I could string them, and for a long
 time they kept me happy and contented. The conductor, too, was kind.
@@ -729,7 +729,7 @@ image that some earlier experience had engraved on my brain.
 I remember the morning that I first asked the meaning of the word,
 "love." This was before I knew many words. I had found a few early
 violets in the garden and brought them to my teacher. She tried to kiss
-me: but at that time I did not like to have any one kiss me except my
+me; but at that time I did not like to have any one kiss me except my
 mother. Miss Sullivan put her arm gently round me and spelled into my
 hand, "I love Helen."
 
@@ -866,7 +866,7 @@ fine, resinous odour of pine needles, blended with the perfume of wild
 grapes. Seated in the gracious shade of a wild tulip tree, I learned to
 think that everything has a lesson and a suggestion. "The loveliness of
 things taught me all their use." Indeed, everything that could hum, or
-buzz, or sing, or bloom had a part in my education-noisy-throated
+buzz, or sing, or bloom had a part in my education--noisy-throated
 frogs, katydids and crickets held in my hand until forgetting their
 embarrassment, they trilled their reedy note, little downy chickens
 and wildflowers, the dogwood blossoms, meadow-violets and budding fruit
@@ -953,7 +953,7 @@ leaves on the outside opened slowly, reluctant, I thought, to reveal
 the loveliness they hid; once having made a start, however, the opening
 process went on rapidly, but in order and systematically. There was
 always one bud larger and more beautiful than the rest, which pushed
-her outer, covering back with more pomp, as if the beauty in soft, silky
+her outer covering back with more pomp, as if the beauty in soft, silky
 robes knew that she was the lily-queen by right divine, while her more
 timid sisters doffed their green hoods shyly, until the whole plant was
 one nodding bough of loveliness and fragrance.
@@ -1012,7 +1012,7 @@ touch.
 CHAPTER VIII
 
 The first Christmas after Miss Sullivan came to Tuscumbia was a great
-event. Every one in the family prepared surprises for me, but what
+event. Every one in the family prepared surprises for me; but what
 pleased me most, Miss Sullivan and I prepared surprises for everybody
 else. The mystery that surrounded the gifts was my greatest delight and
 amusement. My friends did all they could to excite my curiosity by hints
@@ -1972,7 +1972,7 @@ time to know an author, to recognize his style as I recognize the clasp
 of a friend's hand.
 
 At first I was rather unwilling to study Latin grammar. It seemed absurd
-to waste time analyzing, every word I came across--noun, genitive,
+to waste time analyzing every word I came across--noun, genitive,
 singular, feminine--when its meaning was quite plain. I thought I might
 just as well describe my pet in order to know it--order, vertebrate;
 division, quadruped; class, mammalia; genus, felinus; species, cat;
@@ -2115,7 +2115,7 @@ Each day Miss Sullivan went to the classes with me and spelled into my
 hand with infinite patience all that the teachers said. In study hours
 she had to look up new words for me and read and reread notes and books
 I did not have in raised print. The tedium of that work is hard to
-conceive. Frau Grote, my German teacher, and Mr. Gilman, the principal,
+conceive. Frau Gröte, my German teacher, and Mr. Gilman, the principal,
 were the only teachers in the school who learned the finger alphabet to
 give me instruction. No one realized more fully than dear Frau Grote how
 slow and inadequate her spelling was. Nevertheless, in the goodness of
@@ -2757,8 +2757,8 @@ Jason were too monstrous to be forgiven, and I used to wonder why
 the gods permitted them to do wrong and then punished them for their
 wickedness. And the mystery is still unsolved. I often wonder how
 
-God can dumbness keep While Sin creeps grinning through His house of
-Time.
+     God can dumbness keep
+     While Sin creeps grinning through His house of Time.
 
 It was the Iliad that made Greece my paradise. I was familiar with the
 story of Troy before I read it in the original, and consequently I had
@@ -2792,7 +2792,7 @@ animated youth in the full sunlight with the wind in his hair.
 
 How easy it is to fly on paper wings! From "Greek Heroes" to the Iliad
 was no day's journey, nor was it altogether pleasant. One could have
-traveled round the word many times while I trudged my weary way through
+traveled round the world many times while I trudged my weary way through
 the labyrinthine mazes of grammars and dictionaries, or fell into those
 dreadful pitfalls called examinations, set by schools and colleges for
 the confusion of those who seek after knowledge. I suppose this sort of
@@ -2926,12 +2926,16 @@ but its chief glory is the recognition I find in it of the redeeming
 potency of woman's self-sacrificing love. This thought pervades all
 German literature and is mystically expressed in Goethe's "Faust":
 
-All things transitory But as symbols are sent. Earth's insufficiency
-Here grows to event. The indescribable Here it is done. The Woman Soul
-leads us upward and on!
+     All things transitory
+     But as symbols are sent.
+     Earth's insufficiency
+     Here grows to event.
+     The indescribable
+     Here it is done.
+     The Woman Soul leads us upward and on!
 
 Of all the French writers that I have read, I like Moliere and Racine
-best. There are fine things in Balzac and passages in Merimee which
+best. There are fine things in Balzac and passages in Mérimée which
 strike one like a keen blast of sea air. Alfred de Musset is impossible!
 I admire Victor Hugo--I appreciate his genius, his brilliancy, his
 romanticism; though he is not one of my literary passions. But Hugo
@@ -3050,11 +3054,12 @@ Chamberlin initiated me into the mysteries of tree and wild-flower,
 until with the little ear of love I heard the flow of sap in the oak,
 and saw the sun glint from leaf to leaf. Thus it is that
 
-  Even as the roots, shut in the darksome earth,
-  Share in the tree-top's joyance, and conceive
-  Of sunshine and wide air and wingéd things,
-  By sympathy of nature, so do I
-  have evidence of things unseen.
+     Even as the roots, shut in the darksome earth,
+     Share in the tree-top's joyance, and conceive
+     Of sunshine and wide air and wingéd things,
+     By sympathy of nature, so do I
+
+have evidence of things unseen.
 
 It seems to me that there is in each of us a capacity to comprehend the
 impressions and emotions which have been experienced by mankind from the
@@ -3176,7 +3181,7 @@ spell on their fingers; but I manage to read their lips. If I do not
 succeed they resort to dumb show. Sometimes I make a mistake and do the
 wrong thing. A burst of childish laughter greets my blunder, and the
 pantomime begins all over again. I often tell them stories or teach them
-a game, and the winged hours depart and leave us good and happy.
+a game, and the wingéd hours depart and leave us good and happy.
 
 Museums and art stores are also sources of pleasure and inspiration.
 Doubtless it will seem strange to many that the hand unaided by sight
@@ -3201,8 +3206,9 @@ true and tender. It is the face of a poet, and of a man acquainted with
 sorrow. Ah, how well I understand his deprivation--the perpetual night
 in which he dwelt--
 
-O dark, dark, amid the blaze of noon, Irrecoverably dark, total eclipse
-Without all hope of day!
+     O dark, dark, dark amid the blaze of noon,
+     Irrecoverably dark, total eclipse
+     Without all hope of day!
 
 In imagination I can hear Homer singing, as with unsteady, hesitating
 steps he gropes his way from camp to camp--singing of life, of love, of
@@ -3400,7 +3406,8 @@ it was full of books, and I stretched out my hand instinctively to find
 them. My fingers lighted upon a beautiful volume of Tennyson's poems,
 and when Miss Sullivan told me what it was I began to recite:
 
-Break, break, break On thy cold gray stones, O sea!
+     Break, break, break
+     On thy cold gray stones, O sea!
 
 But I stopped suddenly. I felt tears on my hand. I had made my beloved
 poet weep, and I was greatly distressed. He made me sit in his armchair,
@@ -8206,7 +8213,7 @@ than ever.
 
 Finding that other people seemed to know so much more about Helen Keller
 than she did, Miss Sullivan kept silent and has been silent for ten
-years, except for her paper in the first volta Bureau Souvenir of Helen
+years, except for her paper in the first Volta Bureau Souvenir of Helen
 Keller and the paper which, at Dr. Bell's request, she prepared in 1894
 for the meeting at Chautauqua of the American Association to Promote the
 Teaching of Speech to the Deaf. When Dr. Bell and others tell her, what
@@ -8871,13 +8878,13 @@ suspicion that she is performing a most difficult feat. She learns
 because she can't help it, just as the bird learns to fly. But don't
 imagine that she "talks fluently." Like her baby cousin, she expresses
 whole sentences by single words. "Milk," with a gesture means, "Give me
-more milk." "Mother," accompanied by an inquiring look, means, "Were is
-mother?" "Go" means, "I want to go out." But when I spell into her hand,
-"Give me some bread," she hands me the bread, or if I say, "Get your hat
-and we will go to walk," she obeys instantly. The two words, "hat" and
-"walk" would have the same effect; BUT THE WHOLE SENTENCE, REPEATED MANY
-TIMES DURING THE DAY, MUST IN TIME IMPRESS ITSELF UPON THE BRAIN, AND BY
-AND BY SHE WILL USE IT HERSELF.
+more milk." "Mother," accompanied by an inquiring look, means, "Where
+is mother?" "Go" means, "I want to go out." But when I spell into her
+hand, "Give me some bread," she hands me the bread, or if I say, "Get
+your hat and we will go to walk," she obeys instantly. The two words,
+"hat" and "walk" would have the same effect; BUT THE WHOLE SENTENCE,
+REPEATED MANY TIMES DURING THE DAY, MUST IN TIME IMPRESS ITSELF UPON THE
+BRAIN, AND BY AND BY SHE WILL USE IT HERSELF.
 
 We play a little game which I find most useful in developing the
 intellect, and which incidentally answers the purpose of a language
@@ -10859,7 +10866,7 @@ and confuse all minds. Children ask profound questions, but they often
 receive shallow answers, or, to speak more correctly, they are quieted
 by such answers.
 
-"Were did I come from?" and "Where shall I go when I die?" were
+"Where did I come from?" and "Where shall I go when I die?" were
 questions Helen asked when she was eight years old. But the explanations
 which she was able to understand at that time did not satisfy, although
 they forced her to remain silent, until her mind should begin to put
@@ -11648,7 +11655,7 @@ when I first knew her it was nothing more than a peculiar noise.
 Nevertheless, it was the only sign she ever made for water, and not
 until she had learned to spell the word with her fingers did she forget
 the spoken symbol. The word water, and the gesture which corresponds to
-the word good-by,seem to have been all that the child remembered of the
+the word good-by, seem to have been all that the child remembered of the
 natural and acquired signs with which she had been familiar before her
 illness.
 
@@ -12802,7 +12809,7 @@ of thought is language, and language is the one thing to teach the deaf
 child and every other child. Let him get language and he gets the very
 stuff that language is made of, the thought and the experience of his
 race. The language must be one used by a nation, not an artificial
-thing. Volapuk is a paradox, unless one has French or English or German
+thing. Volapük is a paradox, unless one has French or English or German
 or some other language that has grown up in a nation. The deaf child who
 has only the sign language of De l'Epee is an intellectual Philip Nolan,
 an alien from all races, and his thoughts are not the thoughts of an
